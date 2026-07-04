@@ -346,7 +346,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 - [0QoLttS.jpg](https://i.imgur.com/0QoLttS.jpg) Screenshot of a table from somewhere of private trackers and their sign-up requirements
 - [Private Tracker Flowchart](https://wiki.installgentoo.com/images/9/97/Private_tracker_flowchart.png) V4 of the private tracker flowchart. Somewhat out of date.
 - [Private trackers](https://wiki.installgentoo.com/index.php/Private_trackers) Guide on how to get into (and survive) the world of private trackers.
-- [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping — everything you need to know to pass the RED interview.
+- [RED Interview Prep](https://interviewfor.red/en/index.html) This site was written as a guide for potential users to learn about music formats, transcodes, torrenting, and burning and ripping â everything you need to know to pass the RED interview.
 - [Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1zYZ2107xOZwQ37AjLTc5A4dUJl0ilg8oMrZyA0BGvc0/edit#gid=1357476050) Comprehensive spreadsheet of private trackers (somewhat out of date)
 
 #### Semi-Private Trackers
@@ -396,6 +396,7 @@ You will notice some items on this list have a :star2: next to them. Items with 
 
 ### Tracker Aggregators
 - [snowfl](https://snowfl.com/) snowfl is a torrent aggregator which searches various public torrent indexes in real-time
+- [Tracker Checker](https://www.torrenttrackerslist.com/tools/tracker-checker) Paste any UDP/HTTP/HTTPS/WSS tracker URLs and get live uptime + latency. Backed by a daily-verified list of 300+ public trackers.
 - [Torrents.me](https://torrents.me/) Torrents.me combines popular torrent sites and specialized private trackers in a torrent multisearch.
 - [rats-search](https://github.com/DEgITx/rats-search) P2P Bittorrent search engine
 - [AIO Search](http://www.aiosearch.com/) Torrent search engine
@@ -451,7 +452,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 #### WebTorrent Clients
 - [magnetoo](https://www.magnetoo.io/) Fancy new in-browser WebTorrent streaming service
-- [βTorrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
+- [Î²Torrent](https://btorrent.xyz/) fully-featured [WebTorrent](https://webtorrent.io/) browser client written in HTML, JS and CSS
 - [WebTorrent Desktop](https://webtorrent.io/desktop/) WebTorrent Desktop is for streaming torrents.
 - [Instant.io](https://instant.io/) Streaming file transfer over WebTorrent (torrents on the web)
 
@@ -524,7 +525,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Usenet newsgroup](https://en.wikipedia.org/wiki/Usenet_newsgroup) A Usenet newsgroup is a repository usually within the Usenet system, for messages posted from many users in different locations using the Internet.
 - [/r/Usenet](https://www.reddit.com/r/Usenet) :star2: a thriving community dedicated to helping users old and new understand and use Usenet.
 - [/r/UsenetInvites](https://www.reddit.com/r/UsenetInvites) Requests and offers for Usenet indexers
-- [NZBLINK](https://nzblnk.info/) The NZBLNK™ URI scheme defines the format of NZBLNK™ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
+- [NZBLINK](https://nzblnk.info/) The NZBLNKâ¢ URI scheme defines the format of NZBLNKâ¢ links to identify binary Usenet content and supplies some extra information to handle that content correct (similar to magnet links, but for NZBs).
 - [Usenet-Uploaders](https://github.com/animetosho/Nyuu/wiki/Usenet-Uploaders) Table of applications for uploading content to Usenet
 - [QuickPar](http://www.quickpar.org.uk/index.htm) Tool for reconstructing damaged/missing/corrupt Usenet binaries
 - [NZB Monkey](https://nzblnk.info/nzb-monkey/) NZB download helper-tool
@@ -856,7 +857,7 @@ premium services
 - [megaDDL](https://megaddl.co/) Mega, Go4up, 1Fichier, NitroFlare, Openload
 
 ## Media Centre Applications
-- [Plex](https://www.plex.tv/) :star2: Your content—from live and recorded TV and personal media, to on-demand web shows, video news, and podcasts—beautifully organized and ready to stream everywhere.
+- [Plex](https://www.plex.tv/) :star2: Your contentâfrom live and recorded TV and personal media, to on-demand web shows, video news, and podcastsâbeautifully organized and ready to stream everywhere.
 - [Emby](https://emby.media/) a personal media server with apps on just about every device.
 - [Kodi](https://kodi.tv/) an award-winning free and open-source home theater/media center software and entertainment hub for digital media.
 - [OpenPHT](https://github.com/RasPlex/OpenPHT) a community-driven fork of Plex Home Theater
@@ -1242,7 +1243,7 @@ premium services
 - [Medusa](https://pymedusa.com/) Automatic Video Library Manager for TV Shows.
 
 ### Movie Automation
-- [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies à la Couchpotato.
+- [Radarr](https://radarr.video/) :star2: A fork of Sonarr to work with movies Ã  la Couchpotato.
 - [RadarrSync](https://github.com/Sperryfreak01/RadarrSync) Syncs two Radarr servers through web API.
 - [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) Automatic Movie Downloading via NZBs & Torrents
 - [Watcher](https://github.com/barbequesauce/Watcher3) Watcher is an automated movie NZB & Torrent searcher and snatcher.
@@ -1312,7 +1313,7 @@ premium services
 - [MyJDownloader](https://play.google.com/store/apps/details?id=org.appwork.myjdandroid&hl=en_US) enables you to remote control your desktop JDownloader from your pocket while you're on the go.
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
-- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
+- [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTubeâ¢ app when it appears.
 - [Blokada](https://blokada.org) Blokada is a compact app that transparently blocks unwanted content like ads, tracking, malware, and other annoyances.
 - [Nebulo](https://github.com/Ch4t4r/Nebulo) Nebulo is a free, open-source, no-root, light-weight dns-over-https, dns-over-tls, and dns-over-http-over-quic client for Android with emphasis on privacy and security. Nebulo is fast, highly-customizable, ad-free, efficient on the battery, contains zero analytics / tracking.
 - [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent Internet censorship, block ads and trackers on your Android device. Free and open source.
@@ -1333,8 +1334,8 @@ premium services
 - [Cinema](https://forum.mobilism.org/viewtopic.php?t=2786441) a lot of Movies & TV/Shows to watch and download.
 - [Fildo](https://fildo.net/android/en/) Music streaming app
 - [TeaTV](https://teatv.net/) App for Android, Windows, and macOS for watching 1080p movies and TV shows for free
-- [AniméGlare](https://animeglare.xyz/)
-- [AniméVibe](http://animevibe.tv/)
+- [AnimÃ©Glare](https://animeglare.xyz/)
+- [AnimÃ©Vibe](http://animevibe.tv/)
 - [ApolloTV](https://apollotv.xyz/)
 - [BeeTV](http://beetvapk.me/)
 - [Cinema](https://cinemaapk.com/)
@@ -1419,7 +1420,7 @@ premium services
 ### IRC Clients
 - [weechat](https://github.com/weechat/weechat) :star2: The extensible chat client.
 - [irssi](https://irssi.org/) Your text mode chatting application since 1999.
-- [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat it’s completely free for both Windows and Unix-like systems.
+- [HexChat](https://hexchat.github.io/) HexChat is an IRC client based on XChat, but unlike XChat itâs completely free for both Windows and Unix-like systems.
 - [KVIrc](https://github.com/kvirc/KVIrc) Graphical IRC client
 - [mIRC](https://www.mirc.com/) IRC client for Windows
 - [Shout](https://github.com/erming/shout) The self-hosted web IRC client
@@ -1481,7 +1482,7 @@ premium services
 - [Flox](https://github.com/devfake/flox) Flox is a self-hosted movie, series and anime watch list.
 - [TVmaze](https://www.tvmaze.com/) TVmaze is a community of TV lovers and dedicated contributors that discuss and help maintain TV information on the web.
 - [JustWatch](https://www.justwatch.com/) On JustWatch you can find out where to watch your favorite movies & TV series
-- [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream – pirated or via retail.
+- [WhereYouWatch](https://whereyouwatch.com/latest-reports/) Follow upcoming movies and receive email alerts when they are out online as a download or stream â pirated or via retail.
 - [Flickmetrix](https://flickmetrix.com/) Movie database search engine with disc/Netflix/Prime filtering
 - [dvdsreleasedates.com](https://www.dvdsreleasedates.com/) The latest info on new Blu-ray and DVD releases
 - [Simkl](https://simkl.com/) Movie and TV show scrobbler similar to Trakt.tv
